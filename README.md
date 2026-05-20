@@ -52,9 +52,27 @@ public:
 
 ---
 
-📊 GitHub Stats
+# 📊 GitHub Stats & Streak
 
-<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=MBR477&show_icons=true&theme=tokyonight&hide_border=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBR477&layout=compact&theme=tokyonight&hide_border=true"/></div>---
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="middle">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MBR477&show_icons=true&theme=tokyonight&hide_border=true" />
+      </td>
+      <td align="center" valign="middle">
+        <img height="180em" src="https://streak-stats.demolab.com?user=MBR477&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBR477&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
 
 🔥 GitHub Streak
 
